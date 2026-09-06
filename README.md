@@ -1,16 +1,38 @@
-## Hi there 👋
+╭──────────────────────────────────────────────╮
+│             👋 HI, I'M SABARI               │
+│       CSE STUDENT • DEVELOPER • BUILDER     │
+╰──────────────────────────────────────────────╯
 
-<!--
-**sabari-k07/sabari-k07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ABOUT ME
+💻 Full-Stack Developer
+📱 Android Developer
+🌱 Learning Backend & AI
+🔨 Building practical applications
 
-Here are some ideas to get you started:
+🛠️ TECH STACK
+HTML • CSS • JavaScript • React
+Node.js • Express
+MySQL • MongoDB
+Java • Android
+Git • GitHub • VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 FEATURED PROJECTS
+┌─────────────────┐
+│ Tech Crew       │
+│ Web Application │
+└─────────────────┘
+
+┌─────────────────┐
+│ Expense Tracker │
+│ Full Stack App  │
+└─────────────────┘
+
+┌─────────────────┐
+│ AI Git Sample   │
+│ Java / AI       │
+└─────────────────┘
+
+📊 GITHUB ACTIVITY
+
+📫 CONNECT WITH ME
+LinkedIn • Portfolio • Email
