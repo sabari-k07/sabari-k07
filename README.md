@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/sabari-k07/sabari-k07/main/github-banner.png" width="100%" alt="Sabari K - Developer Banner">
+<img src="https://raw.githubusercontent.com/sabari-k07/sabari-k07/refs/heads/main/github-banner.png" width="100%" alt="Sabari K - Developer Banner">
 
 </div>
 
