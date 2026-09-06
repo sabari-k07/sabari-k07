@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="C:\Sabari" width="100%" alt="Sabari K">
-
 ### 👋 Hi, I'm Sabari K
 
 **💻 CSE Student • Full-Stack Developer • Android Developer**
