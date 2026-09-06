@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sabari-k07/sabari-k07/main/Github-profile.png" width="100%" alt="Sabari K">
+<img src="C:\Sabari" width="100%" alt="Sabari K">
 
 ### 👋 Hi, I'm Sabari K
 
