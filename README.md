@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Sabari K - Developer Banner">
+<img src="https://raw.githubusercontent.com/sabari-k07/sabari-k07/main/github-banner.png" width="100%" alt="Sabari K - Developer Banner">
 
 </div>
+
 # 👋 Hi, I'm Sabari K
+
+<div align="center">
 
 ### 💻 CSE Student • Full-Stack Developer • Android Developer
 
-Building practical applications and turning ideas into real solutions 🚀
+**🚀 Turning Ideas into Real Solutions**
 
 </div>
 
@@ -27,23 +30,18 @@ Building practical applications and turning ideas into real solutions 🚀
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-
 HTML • CSS • JavaScript • React
 
 ### ⚙️ Backend
-
 Node.js • Express
 
 ### 🗄️ Database
-
 MySQL • MongoDB
 
 ### 📱 Mobile
-
 Android • Java • Kotlin
 
 ### 🔧 Tools
-
 Git • GitHub • VS Code • Android Studio
 
 ---
@@ -51,20 +49,17 @@ Git • GitHub • VS Code • Android Studio
 ## 📌 Featured Projects
 
 ### 🌐 Tech Crew
-
-Web application for team collaboration and project management.
+A web application for team collaboration and project management.
 
 **Tech:** HTML • CSS • JavaScript
 
 ### 💰 Expense Tracker
-
-Application for tracking and managing personal expenses.
+An application for tracking and managing personal expenses.
 
 **Tech:** JavaScript • Node.js • Database
 
 ### 🤖 AI Git Sample
-
-Project exploring AI and Git integration.
+A project exploring AI and Git integration.
 
 **Tech:** Java • AI
 
@@ -74,9 +69,9 @@ Project exploring AI and Git integration.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabari-k07&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=sabari-k07&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabari-k07&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari-k07&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 
 </div>
 
@@ -86,7 +81,7 @@ Project exploring AI and Git integration.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sabari-k07&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=sabari-k07&theme=tokyonight&hide_border=true" width="70%">
 
 </div>
 
@@ -96,8 +91,8 @@ Project exploring AI and Git integration.
 
 <div align="center">
 
-📧 Email • 💼 LinkedIn • 🌐 Portfolio
+📧 **Email** • 💼 **LinkedIn** • 🌐 **Portfolio**
 
-### Let's build something great! 🚀
+### 🚀 Let's build something great!
 
 </div>
