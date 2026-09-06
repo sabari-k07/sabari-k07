@@ -1,94 +1,57 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sabari-k07/sabari-k07/main/Github-profile.png" width="100%" alt="Sabari K - Developer Banner">
+<img src="https://raw.githubusercontent.com/sabari-k07/sabari-k07/main/Github-profile.png" width="100%" alt="Sabari K">
 
-</div>
+### 👋 Hi, I'm Sabari K
 
-# 👋 Hi, I'm Sabari K
+**💻 CSE Student • Full-Stack Developer • Android Developer**
 
-<div align="center">
+🚀 Building practical applications | 🌱 Learning Backend & AI
 
-### 💻 CSE Student • Full-Stack Developer • Android Developer
-
-🚀 **Turning Ideas into Real Solutions**
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering Student
-- 💻 Full-Stack Developer
-- 📱 Android Developer
-- 🌱 Currently learning Backend Development & AI
-- 🔨 Building real-world projects
-- 🎯 Focused on improving my development skills
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-HTML • CSS • JavaScript • React
-
-### ⚙️ Backend
-Node.js • Express
-
-### 🗄️ Database
-MySQL • MongoDB
-
-### 📱 Mobile
-Android • Java • Kotlin
-
-### 🔧 Tools
-Git • GitHub • VS Code • Android Studio
-
----
-
-## 📌 Featured Projects
-
-### 🌐 Tech Crew
-A web application for team collaboration and project management.
-
-### 💰 Expense Tracker
-An application for tracking and managing personal expenses.
-
-### 🤖 AI Git Sample
-A project exploring AI and Git integration.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sabari-k07&show_icons=true&theme=tokyonight&hide_border=true">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari-k07&layout=compact&theme=tokyonight&hide_border=true">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabari-k-4441a533)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ksabari410@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sabari-k07)
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sabari-k07&theme=tokyonight&hide_border=true">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,java,kotlin,android,git,github,vscode&perline=7" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🌐 [**Tech Crew**](https://github.com/sabari-k07/Tech_Crew) | Team collaboration & project management | HTML • CSS • JS |
+| 💰 [**Expense Tracker**](https://github.com/sabari-k07/Expence_tracker) | Personal expense management | JavaScript |
+| 🤖 [**AI Git Sample**](https://github.com/sabari-k07/ai-git-sample) | AI & Git integration project | Java |
+
+---
+
+### 📊 GitHub
 
 <div align="center">
 
-📧 Email • 💼 LinkedIn • 🌐 Portfolio
+<img src="https://github-readme-stats.vercel.app/api?username=sabari-k07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150">
 
-### 🚀 Let's build something great!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari-k07&layout=compact&theme=tokyonight&hide_border=true" height="150">
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 Code • Build • Learn • Grow**
+
+🚀 *Let's build something great!*
 
 </div>
