@@ -1,38 +1,100 @@
-╭──────────────────────────────────────────────╮
-│             👋 HI, I'M SABARI               │
-│       CSE STUDENT • DEVELOPER • BUILDER     │
-╰──────────────────────────────────────────────╯
+<div align="center">
 
-🚀 ABOUT ME
-💻 Full-Stack Developer
-📱 Android Developer
-🌱 Learning Backend & AI
-🔨 Building practical applications
+# 👋 Hi, I'm Sabari K
 
-🛠️ TECH STACK
+### 💻 CSE Student • Full-Stack Developer • Android Developer
+
+Building practical applications and turning ideas into real solutions 🚀
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Full-Stack Developer
+- 📱 Android Developer
+- 🌱 Currently learning Backend Development & AI
+- 🔨 Building real-world projects
+- 🎯 Focused on improving my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
 HTML • CSS • JavaScript • React
+
+### ⚙️ Backend
+
 Node.js • Express
+
+### 🗄️ Database
+
 MySQL • MongoDB
-Java • Android
-Git • GitHub • VS Code
 
-🚀 FEATURED PROJECTS
-┌─────────────────┐
-│ Tech Crew       │
-│ Web Application │
-└─────────────────┘
+### 📱 Mobile
 
-┌─────────────────┐
-│ Expense Tracker │
-│ Full Stack App  │
-└─────────────────┘
+Android • Java • Kotlin
 
-┌─────────────────┐
-│ AI Git Sample   │
-│ Java / AI       │
-└─────────────────┘
+### 🔧 Tools
 
-📊 GITHUB ACTIVITY
+Git • GitHub • VS Code • Android Studio
 
-📫 CONNECT WITH ME
-LinkedIn • Portfolio • Email
+---
+
+## 📌 Featured Projects
+
+### 🌐 Tech Crew
+
+Web application for team collaboration and project management.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 💰 Expense Tracker
+
+Application for tracking and managing personal expenses.
+
+**Tech:** JavaScript • Node.js • Database
+
+### 🤖 AI Git Sample
+
+Project exploring AI and Git integration.
+
+**Tech:** Java • AI
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabari-k07&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabari-k07&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sabari-k07&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+📧 Email • 💼 LinkedIn • 🌐 Portfolio
+
+### Let's build something great! 🚀
+
+</div>
