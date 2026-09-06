@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="./github-banner.png" width="100%" alt="Sabari K - Developer Banner">
+
+</div>
 # 👋 Hi, I'm Sabari K
 
 ### 💻 CSE Student • Full-Stack Developer • Android Developer
